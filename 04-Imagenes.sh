@@ -11,7 +11,10 @@ rm *.*
 wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/016.jpg
 wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/018.jpg
 wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/020.jpg
-wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/022.jpg
-wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/024.jpg
+wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/022.png
+wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/024.png
+wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/word.png
+wget /usr/share/xfce4/backdrops 10.17.7.47/Mega/alsina/backdrops/excel.png
+
 
 
