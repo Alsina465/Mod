@@ -2,3 +2,5 @@ sudo apt-get   install -y   cheese vlc gimp  okular kazam
 cd Descargas
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
+wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_124.0.2478.105-1_amd64.deb?brand=M102
+sudo dpkg -i  sudo dpkg -i *.deb
